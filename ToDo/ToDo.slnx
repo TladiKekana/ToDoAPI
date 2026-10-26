@@ -1,5 +1,11 @@
 <Solution>
-  <Folder Name="/scr/">
+  <Folder Name="/scr/" />
+  <Folder Name="/scr/Application/" />
+  <Folder Name="/scr/Domain/" />
+  <Folder Name="/scr/Infrastructure/">
+    <Project Path="ToDo.Infrastructure/ToDo.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/scr/Presentation/">
     <Project Path="ToDo.API/ToDo.API.csproj" />
   </Folder>
 </Solution>

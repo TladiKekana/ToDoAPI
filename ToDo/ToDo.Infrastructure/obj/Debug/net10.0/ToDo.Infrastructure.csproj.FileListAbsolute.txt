@@ -1,0 +1,14 @@
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\bin\Debug\net10.0\ToDo.Infrastructure.deps.json
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\bin\Debug\net10.0\ToDo.Infrastructure.dll
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\bin\Debug\net10.0\ToDo.Infrastructure.pdb
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.AssemblyInfo.cs
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.sourcelink.json
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.dll
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\refint\ToDo.Infrastructure.dll
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.pdb
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ref\ToDo.Infrastructure.dll
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Inf.085FD133.Up2Date
+C:\Users\vdnku\Documents\Tladi\CSharp_Studies\ToDoAPI\ToDo\ToDo.Infrastructure\obj\Debug\net10.0\ToDo.Infrastructure.csproj.AssemblyReference.cache
