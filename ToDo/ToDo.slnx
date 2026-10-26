@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/scr/">
+    <Project Path="ToDo.API/ToDo.API.csproj" />
+  </Folder>
+</Solution>
